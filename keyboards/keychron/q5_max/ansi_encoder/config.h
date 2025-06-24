@@ -35,7 +35,8 @@
 #    define RGB_MATRIX_BRIGHTNESS_TURN_OFF_VAL 32
 
 /* Indications */
-#    define NUM_LOCK_INDEX 32
+/* Disable NUM_LOCK LED */
+//#    define NUM_LOCK_INDEX 32
 #    define CAPS_LOCK_INDEX 55
 #    define LOW_BAT_IND_INDEX \
         { 92 }
